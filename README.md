@@ -14,9 +14,6 @@ Melhorar o processo de esteira / deploy de software
 - Grupo 1 - 
   - Link do repositório: https://github.com/InteliProjects/2025-1B-T09-ES10-G01
 
-- Grupo 2 - 
-  - Link do repositório: https://github.com/InteliProjects/2025-1B-T09-ES10-G02
-
 - Grupo 3 -  
   - Link do repositório: https://github.com/InteliProjects/2025-1B-T09-ES10-G03
 
